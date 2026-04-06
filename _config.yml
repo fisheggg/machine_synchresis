@@ -2,3 +2,7 @@ title: Machine Synchresis
 description: Support materials for thesis "Machine Synchresis" Immersive and Embodied Audio--Video Information Retrieval for Indoor Environments"
 show_downloads: false
 theme: jekyll-theme-cayman
+
+include:
+  - _icons
+  - _figures
